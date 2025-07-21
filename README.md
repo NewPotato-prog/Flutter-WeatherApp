@@ -10,7 +10,7 @@ Features :
 
 Screenshots : 
 
-![](Screenshots/01.png)
+![](Screenshots/01.png width=50%)
 
 ![](Screenshots/02.png)
 
