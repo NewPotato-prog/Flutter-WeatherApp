@@ -1,0 +1,1 @@
+GET https://api.weatherapi.com/v1/search.json?key=6156dc7f3916482a87f95841251407&q=auto:ip
