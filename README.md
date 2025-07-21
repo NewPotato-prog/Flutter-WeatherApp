@@ -1,16 +1,17 @@
-# weather_app
+# Weather App
 
-A new Flutter project.
+An simple weather app to know current weather and forecast
 
-## Getting Started
+Features : 
+  - Simple to use
+  - Get weather of any location though api
+  - Get forecast of upto 7 day's
+  - Tries to guess your location by ip address, i.e Detetcs current location by default ( could be inaacurate )
 
-This project is a starting point for a Flutter application.
+Screenshots : 
 
-A few resources to get you started if this is your first Flutter project:
+![](/Screenshots/01.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![](/Screenshots/02.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](/Screenshots/03.png)
