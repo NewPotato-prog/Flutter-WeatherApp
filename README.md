@@ -6,7 +6,7 @@ Features :
   - Simple to use
   - Get weather of any location though api
   - Get forecast of upto 7 day's
-  - Tries to guess your location by ip address, i.e Detetcs current location by default ( could be inaacurate )
+  - Tries to guess your location by ip address, i.e Detetcs current location by default ( could be inaccurate )
 
 Screenshots : 
 
