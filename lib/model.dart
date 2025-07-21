@@ -81,23 +81,26 @@ class Location {
 class Hour {
   final double temp_c;
   final double temp_f;
+  final String time;
   final Condition condition;
 
   const Hour({
     required this.temp_c,
     required this.temp_f,
     required this.condition,
+    required this.time,
   });
 
   factory Hour.fromJson(Map<String, dynamic> json) => Hour(
     temp_c: json['temp_c'],
     temp_f: json['temp_f'],
+    time: json['time'],
     condition: Condition.fromJson(json['condition']),
   );
 
   Map<String, dynamic> toJson() => {
-    'avgtemp_c': temp_c,
-    'avgtemp_f': temp_f,
+    'temp_c': temp_c,
+    'temp_f': temp_f,
     'condition': condition,
   };
 }

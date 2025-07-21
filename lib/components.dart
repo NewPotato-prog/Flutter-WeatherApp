@@ -132,7 +132,9 @@ class _WeatherForecastCardState extends State<WeatherForecastCard> {
               itemCount: forecast.dayList.length,
               itemBuilder: (context, int index) {
                 late final String day;
-                var date = DateTime.parse(forecast.dayList[index].date);
+                var date = DateTime.parse(
+                  forecast.dayList[index].hourList.hours[0].time,
+                );
                 if (index == 0) {
                   day = 'Today';
                 } else if (index == 1) {
