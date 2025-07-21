@@ -10,8 +10,8 @@ Features :
 
 Screenshots : 
 
-![](/Screenshots/01.png)
+![](Screenshots/01.png)
 
-![](/Screenshots/02.png)
+![](Screenshots/02.png)
 
-![](/Screenshots/03.png)
+![](Screenshots/03.png)
