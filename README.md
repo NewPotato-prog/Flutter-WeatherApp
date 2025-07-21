@@ -10,8 +10,8 @@ Features :
 
 Screenshots : 
 
-![](Screenshots/01.png width=50%)
+<img src='Screenshots/01.png' width=40% />
 
-![](Screenshots/02.png)
+<img src='Screenshots/02.png' width=40% />
 
-![](Screenshots/03.png)
+<img src='Screenshots/03.png' width=40% />
